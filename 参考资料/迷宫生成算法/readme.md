@@ -23,3 +23,6 @@
 [三大迷宫生成算法 (Maze generation algorithm) -- 深度优先，随机Prim，递归分割](https://blog.csdn.net/juzihongle1/article/details/73135920)
 
 [游戏常用算法：四种迷宫生成算法](https://www.gameres.com/829184.html)
+
+
+[Maze generation algorithm](https://en.wikipedia.org/wiki/Maze_generation_algorithm)
